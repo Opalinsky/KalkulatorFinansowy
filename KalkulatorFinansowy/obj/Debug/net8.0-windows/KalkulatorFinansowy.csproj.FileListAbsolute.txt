@@ -1,0 +1,16 @@
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\bin\Debug\net8.0-windows\KalkulatorFinansowy.exe
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\bin\Debug\net8.0-windows\KalkulatorFinansowy.deps.json
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\bin\Debug\net8.0-windows\KalkulatorFinansowy.runtimeconfig.json
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\bin\Debug\net8.0-windows\KalkulatorFinansowy.dll
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\bin\Debug\net8.0-windows\KalkulatorFinansowy.pdb
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\obj\Debug\net8.0-windows\KalkulatorFinansowy.Form1.resources
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\obj\Debug\net8.0-windows\KalkulatorFinansowy.csproj.GenerateResource.cache
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\obj\Debug\net8.0-windows\KalkulatorFinansowy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\obj\Debug\net8.0-windows\KalkulatorFinansowy.AssemblyInfoInputs.cache
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\obj\Debug\net8.0-windows\KalkulatorFinansowy.AssemblyInfo.cs
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\obj\Debug\net8.0-windows\KalkulatorFinansowy.csproj.CoreCompileInputs.cache
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\obj\Debug\net8.0-windows\KalkulatorFinansowy.dll
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\obj\Debug\net8.0-windows\refint\KalkulatorFinansowy.dll
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\obj\Debug\net8.0-windows\KalkulatorFinansowy.pdb
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\obj\Debug\net8.0-windows\KalkulatorFinansowy.genruntimeconfig.cache
+C:\Users\filip\Projekty\KalkulatorFinansowy\KalkulatorFinansowy\obj\Debug\net8.0-windows\ref\KalkulatorFinansowy.dll
